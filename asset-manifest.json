@@ -1,0 +1,14 @@
+{
+  "main.css": "/foodradar/static/css/main.9611ace6.chunk.css",
+  "main.js": "/foodradar/static/js/main.63373e1b.chunk.js",
+  "main.js.map": "/foodradar/static/js/main.63373e1b.chunk.js.map",
+  "runtime~main.js": "/foodradar/static/js/runtime~main.eaf5f430.js",
+  "runtime~main.js.map": "/foodradar/static/js/runtime~main.eaf5f430.js.map",
+  "static/js/2.e330cb72.chunk.js": "/foodradar/static/js/2.e330cb72.chunk.js",
+  "static/js/2.e330cb72.chunk.js.map": "/foodradar/static/js/2.e330cb72.chunk.js.map",
+  "index.html": "/foodradar/index.html",
+  "precache-manifest.6f518488d849571c3aa0dc45cdb087f9.js": "/foodradar/precache-manifest.6f518488d849571c3aa0dc45cdb087f9.js",
+  "service-worker.js": "/foodradar/service-worker.js",
+  "static/css/main.9611ace6.chunk.css.map": "/foodradar/static/css/main.9611ace6.chunk.css.map",
+  "static/media/SearchBar.css": "/foodradar/static/media/background_search_mobile.5d0905e6.jpg"
+}
